@@ -6,17 +6,14 @@
     
     
 }
-main, footer{
+main, footer, .logo{
     width: 80%;
     margin: auto;
 }
-.logo{
-    width: 80%;
-    margin: auto;
-    
+.foto-nome{
+    width: 300px;
+    padding-top: 100px;
 }
-    
-
 header{
     
     width: 100%;
@@ -24,7 +21,9 @@ header{
     background-image: url(../img/pattern.png);
     background-color: lightskyblue;
 }
-
+ul{
+    padding-left: 20px;
+}
 
 
 .table{
